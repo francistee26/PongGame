@@ -1,0 +1,3 @@
+([('pong_game',
+   '/Users/francistee26/Programming/Python/Pong Game/dist/pong_game',
+   'EXECUTABLE')],)
